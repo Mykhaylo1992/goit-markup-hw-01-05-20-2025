@@ -1,0 +1,19 @@
+.text {
+    background-color: tomato;
+    color: black; }
+    .test_link:hover,
+    .test_link:focus {
+        color: rgb(95, 188, 28); }
+
+        .test_link:active{
+            color: rgb(87, 28, 188);
+            text-decoration: none; }
+        
+
+
+            
+
+    /* body {
+        
+    background-color: tomato;
+        } */
